@@ -958,6 +958,7 @@ GENERIC POST
 .post-image img {
 	width: 100%;
 	vertical-align: bottom;
+	border: solid 4px #f9d051;
 }
 .post-image.left {
 	float: left;
