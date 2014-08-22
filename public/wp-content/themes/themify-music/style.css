@@ -336,7 +336,7 @@ FIXED HEADER
 	position: fixed;
 	top: 0;
 	left: 0;
-	height: 60px !important;
+	height: 75px !important;
 	z-index:100;
 	transition:height 0.3s;
 	background: #000000;
